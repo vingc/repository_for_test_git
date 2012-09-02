@@ -1,1 +1,1 @@
-six.z
+six.zts
